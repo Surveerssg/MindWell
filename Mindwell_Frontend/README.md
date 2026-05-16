@@ -163,8 +163,3 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to explore t
 - [@Aryan Mahajan](https://github.com/AryanM65)
 - [@Shubhangi](https://github.com/SHUBHANGIjohri)
 
-
----
-
-This README aims to provide a clear, concise, and comprehensive guide to the MindWell project for judges and reviewers. For any questions or further details, please refer to the source code or contact the development team.
-# MindWell_Frontend_F
